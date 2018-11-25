@@ -6,7 +6,8 @@ Let's start out with something fun - **a game!**
 
 You have two options:
 
-**Option A:  make Tic Tac Toe (XO)**, 
+**Option A:  make Tic Tac Toe (XO)**
+
 **Option B:  make any game you want!**
 
 
